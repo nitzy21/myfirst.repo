@@ -9,6 +9,12 @@ public static void main(String[] args) {
 
 ```
 
+```javascript
+function sayHello(){
+    alert("Hello World");
+}
+```
+
 ## System ID
 
 ## Description
